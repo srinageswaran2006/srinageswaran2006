@@ -38,7 +38,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=srinageswaranps2006&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=srinageswaran2006&show_icons=true&theme=tokyonight)
 
 ---
 
