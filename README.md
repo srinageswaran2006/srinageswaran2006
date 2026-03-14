@@ -1,25 +1,29 @@
-<!-- Dynamic Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=220&section=header&text=Sri%20Nageswaran&fontSize=48&animation=fadeIn&fontColor=ffffff"/>
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/74038190/212744275-2c0f0a7a-60c5-4f3a-95a7-1f7b1f3f9542.gif"/>
 
 <h1 align="left">
-  👋 Hi, I'm <strong>Sri Nageswaran</strong>
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Sri Nageswaran</strong>
 </h1>
 
 <h3>B.Tech Information Technology Student | Programming • Cybersecurity • Technology</h3>
 
+<p>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+Python;Exploring+Cybersecurity;Working+with+SQL+Databases&font=Fira%20Code&width=420&height=45">
+</p>
+
 <div align="left">
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/213760697-bc8f5e63-3a46-4c3c-8a4e-88bfa7cb5c0f.gif" />
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/213760697-bc8f5e63-3a46-4c3c-8a4e-88bfa7cb5c0f.gif"/>
 
 <p>
-I'm a 2nd year B.Tech Information Technology student at SIMATS Engineering  
-(Saveetha Institute of Medical and Technical Sciences).
+I'm a 2nd year <strong>B.Tech Information Technology</strong> student at  
+<strong>SIMATS Engineering (Saveetha Institute of Medical and Technical Sciences)</strong>.
 
-I enjoy learning programming, exploring cybersecurity concepts,
-and building useful projects as I grow in my developer journey.
+I enjoy learning programming, exploring cybersecurity concepts, and building
+useful projects as I grow in my developer journey.
 
-I also work as the <strong>Creative Lead at Growth Orbit</strong>,
-where I contribute to creative direction and digital marketing initiatives.
+I also work as the <strong>Creative Lead at Growth Orbit</strong>, where I
+contribute to creative direction and digital marketing initiatives.
 </p>
 
 <p>
@@ -33,15 +37,15 @@ where I contribute to creative direction and digital marketing initiatives.
 <p align="left">
 
 <a href="https://github.com/srinageswaran2006">
-<img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/srinageswaranps">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:srinageswaran06@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -50,7 +54,7 @@ where I contribute to creative direction and digital marketing initiatives.
 
 </div>
 
-<br clear="all" />
+<br clear="all"/>
 
 ---
 
@@ -64,7 +68,7 @@ where I contribute to creative direction and digital marketing initiatives.
 
 <h3>💻 Programming</h3>
 
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python"/>
 
 </td>
 
@@ -72,7 +76,7 @@ where I contribute to creative direction and digital marketing initiatives.
 
 <h3>🗄 Databases</h3>
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 </td>
 </tr>
@@ -82,7 +86,7 @@ where I contribute to creative direction and digital marketing initiatives.
 
 <h3>🧰 Tools & Platforms</h3>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma"/>
 
 </td>
 
