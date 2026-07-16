@@ -1,263 +1,124 @@
 <div align="center">
 
-<img src="https://placehold.co/1200x300/0D1117/F2C811?text=BUSINESS+INTELLIGENCE+%7C+POWER+BI+%7C+DATA+ANALYTICS&font=montserrat" alt="Banner" width="100%"/>
+<br/>
+
+# P S SRI NAGESWARAN
+
+### Business Intelligence &nbsp;|&nbsp; Power BI Developer &nbsp;|&nbsp; Data Analyst (Aspiring)
+
+<sub>I build executive-ready Power BI dashboards that turn raw data into decisions — not just charts.</sub>
 
 <br/>
 
-# Hi, I'm P S Sri Nageswaran 👋
-
-### Business Intelligence Developer &nbsp;·&nbsp; Power BI Developer &nbsp;·&nbsp; Data Analyst
-
-<em>"Transforming raw data into meaningful business decisions."</em>
-
-<br/>
-
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" /></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-F2C811?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=161B22" /></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=161B22" /></a>
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Follow-F2C811?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=161B22" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinageswaranps)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinageswaran06@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srinageswaran2006)
 
 </div>
 
 <br/>
 
-## 📌 About Me
+## About Me
 
-<table>
-<tr>
-<td>
+I design Power BI dashboards the way a business actually uses them: I start from the question ("where is margin leaking?", "which region is underperforming?") and work backward to the model, the DAX, and the layout — not the other way around.
 
-I'm a **Business Intelligence Developer** focused on turning raw, messy data into clear, decision-ready insight. I design **executive Power BI dashboards**, build clean **data models**, and write efficient **DAX** to answer real business questions — not just display numbers.
+My BI work is self-driven, built on public enterprise-scale datasets (Global Superstore) to practice the same problems real analytics teams face: multi-page executive reporting, security-scoped access, drillthrough navigation, and performance-tuned data models.
 
-My work sits at the intersection of **analytics and storytelling**: I care as much about *why* a metric moved as I do about how the visual looks on screen. Every dashboard I build is designed around a business problem first, and a chart second.
+Outside of BI, I lead creative direction at **Growth Orbit** and freelance as a video editor — work that trained me to think in visual hierarchy and narrative flow before I ever opened Power BI. That's the lens I bring to dashboard design: every visual earns its place, or it doesn't make the page.
 
-**Currently focused on:** sharpening advanced DAX patterns, mastering the Power BI Service (workspaces, RLS, deployment pipelines), and strengthening the Python + SQL side of my analytics toolkit.
-
-</td>
-</tr>
-</table>
+Currently based in Chennai, India, completing a B.Tech in Information Technology at SIMATS Engineering, and building toward a full-time Data Analyst / BI Developer role.
 
 <br/>
 
-## 🧰 Tech Stack
+## Core Skills
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+**Business Intelligence** — Power BI · DAX · Power Query · Data Modeling · Dashboard Design · Business Storytelling
+**Analytics** — KPI Development · Sales Analytics · HR Analytics · Data Analysis
+**Database** — SQL
+**Tools** — Excel · Git · GitHub
+**Creative** — Figma · Video Editing
 
-**📊 Business Intelligence**
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=0D1117" />
-<img src="https://img.shields.io/badge/DAX-3B82F6?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=0D1117" />
-<img src="https://img.shields.io/badge/Data_Modeling-3B82F6?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Dashboard_Design-F2C811?style=flat-square&logo=googleanalytics&logoColor=0D1117" />
-<img src="https://img.shields.io/badge/Data_Visualization-3B82F6?style=flat-square&logo=chartdotjs&logoColor=white" />
-
-**🗄 Database**
-
-<img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-F2C811?style=flat-square&logo=microsoftsqlserver&logoColor=0D1117" />
-
-**📈 Productivity**
-
-<img src="https://img.shields.io/badge/Excel-3B82F6?style=flat-square&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F2C811?style=flat-square&logo=git&logoColor=0D1117" />
-<img src="https://img.shields.io/badge/GitHub-3B82F6?style=flat-square&logo=github&logoColor=white" />
-
-</td>
-<td width="50%" valign="top">
-
-**🎨 Design**
-
-<img src="https://img.shields.io/badge/Figma-F2C811?style=flat-square&logo=figma&logoColor=0D1117" />
-
-**📚 Currently Learning**
-
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-F2C811?style=flat-square&logo=pandas&logoColor=0D1117" />
-<img src="https://img.shields.io/badge/NumPy-3B82F6?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Statistics-F2C811?style=flat-square&logo=googleanalytics&logoColor=0D1117" />
-
-**🚀 Current Focus**
-
-<img src="https://img.shields.io/badge/Advanced_DAX-3B82F6?style=flat-square" />
-<img src="https://img.shields.io/badge/Power_BI_Service-F2C811?style=flat-square&logo=powerbi&logoColor=0D1117" />
-<img src="https://img.shields.io/badge/Business_Storytelling-3B82F6?style=flat-square" />
-<img src="https://img.shields.io/badge/Dashboard_UX-F2C811?style=flat-square" />
-<img src="https://img.shields.io/badge/ETL_Best_Practices-3B82F6?style=flat-square" />
-
-</td>
-</tr>
-</table>
+**Currently expanding into:** Python · Pandas · NumPy · Statistics · Power BI Service (workspaces, deployment, RLS at scale)
 
 <br/>
 
-## 💼 Featured Dashboards
+## Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%">
-<img src="https://placehold.co/600x340/161B22/F2C811?text=Sales+Dashboard" width="100%"/>
+### 1. Sales Performance Dashboard
+*4-page executive Power BI report — Global Superstore dataset*
 
-**Sales Performance Dashboard**
+**Problem:** A sales org needs one view that connects revenue, profitability, and regional performance — instead of three disconnected spreadsheets.
+**Solution:** Built a 4-page executive report — Overview, Sales & Profit, Geography & Market, Product & Customer Intelligence — with cross-page filtering and drill-down from company-level KPIs down to individual products and countries.
 
-**Business Problem:** Leadership lacked a single view of revenue, pipeline, and rep performance across regions.
-**Business Value:** Cut monthly reporting time from days to minutes; surfaced underperforming regions early.
-**Tech Stack:** `Power BI` `DAX` `Power Query` `SQL Server`
+**Scope handled:**
+- $12.6M in sales, 25K+ orders, 5K customers, 147 countries modeled
+- Profitability tracked across category → sub-category → product, by year
+- Market-level trend analysis across 7 global regions
 
-<a href="#"><img src="https://img.shields.io/badge/Repository-View_Code-30363D?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-F2C811?style=flat-square&logo=powerbi&logoColor=0D1117" /></a>
+**Features:** Advanced DAX measures · Power Query ETL · geographic & category drill-down · KPI cards · synced slicers across pages
+**Stack:** `Power BI` `DAX` `Power Query` `SQL`
 
-</td>
-<td width="50%">
-<img src="https://placehold.co/600x340/161B22/3B82F6?text=Finance+Dashboard" width="100%"/>
-
-**Finance & P&L Dashboard**
-
-**Business Problem:** Finance team manually rebuilt P&L reports every month in Excel.
-**Business Value:** Automated a live P&L view with variance-to-budget tracking, saving ~10 hrs/month.
-**Tech Stack:** `Power BI` `DAX` `Excel` `SQL`
-
-<a href="#"><img src="https://img.shields.io/badge/Repository-View_Code-30363D?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-F2C811?style=flat-square&logo=powerbi&logoColor=0D1117" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://placehold.co/600x340/161B22/F2C811?text=HR+Dashboard" width="100%"/>
-
-**HR Analytics Dashboard**
-
-**Business Problem:** HR had no visibility into headcount trends, attrition, or DEI metrics in one place.
-**Business Value:** Enabled proactive retention planning by flagging at-risk departments monthly.
-**Tech Stack:** `Power BI` `DAX` `Power Query` `Excel`
-
-<a href="#"><img src="https://img.shields.io/badge/Repository-View_Code-30363D?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-F2C811?style=flat-square&logo=powerbi&logoColor=0D1117" /></a>
-
-</td>
-<td width="50%">
-<img src="https://placehold.co/600x340/161B22/3B82F6?text=Customer+Analytics" width="100%"/>
-
-**Customer Analytics Dashboard**
-
-**Business Problem:** No clear view of customer segments, churn risk, or lifetime value.
-**Business Value:** Identified high-value segments driving 60%+ of revenue; guided retention strategy.
-**Tech Stack:** `Power BI` `DAX` `SQL` `Data Modeling`
-
-<a href="#"><img src="https://img.shields.io/badge/Repository-View_Code-30363D?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-F2C811?style=flat-square&logo=powerbi&logoColor=0D1117" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://placehold.co/600x340/161B22/F2C811?text=Supply+Chain+Dashboard" width="100%"/>
-
-**Supply Chain Dashboard**
-
-**Business Problem:** Inventory and logistics data lived in disconnected spreadsheets, delaying decisions.
-**Business Value:** Real-time view of stock levels and fulfillment delays, reducing stockouts.
-**Tech Stack:** `Power BI` `Power Query` `SQL Server` `ETL`
-
-<a href="#"><img src="https://img.shields.io/badge/Repository-View_Code-30363D?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-F2C811?style=flat-square&logo=powerbi&logoColor=0D1117" /></a>
-
-</td>
-<td width="50%"></td>
-</tr>
-</table>
+[![Repository](https://img.shields.io/badge/Repository-View_Code-2C2C34?style=flat-square&logo=github&logoColor=white)](https://github.com/srinageswaran2006)
 
 <br/>
 
-## 📊 GitHub Analytics
+### 2. HR Analytics Dashboard
+*4-page executive Power BI report*
+
+**Problem:** HR leadership had no single view of headcount, attrition, and risk — every question meant a new manual export.
+**Solution:** Built a 4-page dashboard with role-based access, so HR leadership, department heads, and analysts each see the data relevant to them, without rebuilding the report per audience.
+
+**Features:** Row Level Security (RLS) · drillthrough & custom tooltips · risk scoring logic · built-in Q&A visual · executive summary layout
+**Stack:** `Power BI` `DAX` `Power Query`
+
+[![Repository](https://img.shields.io/badge/Repository-View_Code-2C2C34?style=flat-square&logo=github&logoColor=white)](https://github.com/srinageswaran2006)
+
+<br/>
+
+<details>
+<summary><strong>Also built — Guided Learning Project</strong> (click to expand)</summary>
+<br/>
+
+**Guided Learning Dashboard** — built while following Chandoo's Power BI course to lock in core fundamentals: data modeling, DAX patterns, and layout principles. Included transparently as a fundamentals project, not an original client-style build.
+
+`Power BI` `DAX` `Power Query`
+[![Repository](https://img.shields.io/badge/Repository-View_Code-2C2C34?style=flat-square&logo=github&logoColor=white)](https://github.com/srinageswaran2006)
+
+</details>
+
+<br/>
+
+## Currently Learning
+
+Deepening the analytics stack around Power BI so I can move from dashboard builder to full-cycle analyst:
+
+`Python` `Pandas` `NumPy` `Statistics` `Advanced SQL` `Power BI Service — RLS, workspaces, deployment pipelines`
+
+<br/>
+
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&bg_color=161B22&title_color=F2C811&icon_color=3B82F6&text_color=FFFFFF&border_color=30363D&hide_border=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=161B22&title_color=F2C811&text_color=FFFFFF&border_color=30363D&hide_border=false" width="49%" />
-
-<img src="https://streak-stats.demolab.com/?user=yourusername&theme=dark&background=161B22&border=30363D&ring=F2C811&fire=F2C811&currStreakLabel=FFFFFF" width="49%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=161B22&color=3B82F6&line=F2C811&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=srinageswaran2006&show_icons=true&theme=dark&bg_color=0D1117&title_color=F2C811&icon_color=F2C811&text_color=FFFFFF&border_color=30363D&hide_border=false" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinageswaran2006&layout=compact&theme=dark&bg_color=0D1117&title_color=F2C811&text_color=FFFFFF&border_color=30363D&hide_border=false" width="49%" />
 
 </div>
 
 <br/>
 
-## 🏆 Certifications
-
-<table width="100%">
-<tr>
-<td align="center" width="25%">
-
-**Microsoft PL-300**
-<br/>
-<sub>Power BI Data Analyst Associate</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Status-In_Progress-30363D?style=flat-square" />
-
-</td>
-<td align="center" width="25%">
-
-**Microsoft Fabric**
-<br/>
-<sub>Analytics Engineer</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Status-In_Progress-30363D?style=flat-square" />
-
-</td>
-<td align="center" width="25%">
-
-**Google Data Analytics**
-<br/>
-<sub>Professional Certificate</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Status-In_Progress-30363D?style=flat-square" />
-
-</td>
-<td align="center" width="25%">
-
-**SQL Certification**
-<br/>
-<sub>Database Fundamentals</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Status-In_Progress-30363D?style=flat-square" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🤝 Connect With Me
+## Let's Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" /></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-F2C811?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=161B22" /></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" /></a>
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-F2C811?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=161B22" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinageswaranps)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinageswaran06@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srinageswaran2006)
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<sub>Turning data into decisions through business intelligence and dashboard storytelling.</sub>
-
-</div>
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=srinageswaran2006&theme=tokyonight&hide_border=true"/>
+<sub>Chennai, India &nbsp;·&nbsp; B.Tech Information Technology, SIMATS Engineering &nbsp;·&nbsp; Open to Data Analyst / BI Developer roles.</sub>
 
 </div>
