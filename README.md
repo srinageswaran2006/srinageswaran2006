@@ -2,123 +2,151 @@
 
 <br/>
 
-# P S SRI NAGESWARAN
+<h1>Hi, I'm Sri Nageswaran 👋</h1>
 
-### Business Intelligence &nbsp;|&nbsp; Power BI Developer &nbsp;|&nbsp; Data Analyst (Aspiring)
+<h3>Data Analyst &nbsp;|&nbsp; Business Intelligence &nbsp;|&nbsp; SQL &nbsp;|&nbsp; Python</h3>
 
-<sub>I build executive-ready Power BI dashboards that turn raw data into decisions — not just charts.</sub>
+<sub>I solve business problems with data — analysis, visualization, and storytelling, Power BI is just one of my tools.</sub>
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinageswaranps)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinageswaran06@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srinageswaran2006)
+<a href="https://github.com/srinageswaran2006"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/srinageswaranps"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:srinageswaran06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=srinageswaran2006&style=flat-square&color=f2c811&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
-<br/>
+<br clear="all"/>
 
 ## About Me
 
-I design Power BI dashboards the way a business actually uses them: I start from the question ("where is margin leaking?", "which region is underperforming?") and work backward to the model, the DAX, and the layout — not the other way around.
+I enjoy taking raw, messy data and turning it into something a business can actually act on — a trend leadership can trust, a risk they can catch early, a decision they can make faster. That process — analysis, visualization, storytelling — is what I'm building my career around, not any single tool.
 
-My BI work is self-driven, built on public enterprise-scale datasets (Global Superstore) to practice the same problems real analytics teams face: multi-page executive reporting, security-scoped access, drillthrough navigation, and performance-tuned data models.
+My background is in creative design and video editing, and it shapes how I approach data: I think about what a viewer notices first, what they skim, and what they ignore. I bring that same instinct to every chart and dashboard I build — visual choices should earn their place by making the insight clearer, not just look good.
 
-Outside of BI, I lead creative direction at **Growth Orbit** and freelance as a video editor — work that trained me to think in visual hierarchy and narrative flow before I ever opened Power BI. That's the lens I bring to dashboard design: every visual earns its place, or it doesn't make the page.
-
-Currently based in Chennai, India, completing a B.Tech in Information Technology at SIMATS Engineering, and building toward a full-time Data Analyst / BI Developer role.
+Currently completing a B.Tech in Information Technology at SIMATS Engineering in Chennai, while leading creative direction at **Growth Orbit** and freelancing as a video editor — and building toward a full-time role as a Data Analyst.
 
 <br/>
 
-## Core Skills
+## 🛠️ Analytics Tech Stack
 
-**Business Intelligence** — Power BI · DAX · Power Query · Data Modeling · Dashboard Design · Business Storytelling
-**Analytics** — KPI Development · Sales Analytics · HR Analytics · Data Analysis
-**Database** — SQL
-**Tools** — Excel · Git · GitHub
-**Creative** — Figma · Video Editing
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
 
-**Currently expanding into:** Python · Pandas · NumPy · Statistics · Power BI Service (workspaces, deployment, RLS at scale)
+**Analytics & BI**
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/DAX-2C2C34?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Data_Modeling-2C2C34?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Storytelling-F2C811?style=flat-square"/>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+**Database & Languages**
+
+<img src="https://skillicons.dev/icons?i=mysql,python,git,github,figma"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+**Tools**
+
+<img src="https://img.shields.io/badge/Excel-2C2C34?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F2C811?style=flat-square&logo=git&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/GitHub-2C2C34?style=flat-square&logo=github&logoColor=white"/>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+**Creative**
+
+<img src="https://img.shields.io/badge/Figma-F2C811?style=flat-square&logo=figma&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Video_Editing-2C2C34?style=flat-square"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## Featured Projects
+## 📁 Featured Projects
 
-### 1. Sales Performance Dashboard
+### Sales Performance Analysis
 *4-page executive Power BI report — Global Superstore dataset*
 
-**Problem:** A sales org needs one view that connects revenue, profitability, and regional performance — instead of three disconnected spreadsheets.
-**Solution:** Built a 4-page executive report — Overview, Sales & Profit, Geography & Market, Product & Customer Intelligence — with cross-page filtering and drill-down from company-level KPIs down to individual products and countries.
+Built to answer a business question, not just visualize data: where is revenue growing, where is margin leaking, and which regions need attention. Covers company-wide KPIs, profitability by category, geographic performance across 147 countries, and product-level intelligence — with cross-page filtering built in.
 
-**Scope handled:**
-- $12.6M in sales, 25K+ orders, 5K customers, 147 countries modeled
-- Profitability tracked across category → sub-category → product, by year
-- Market-level trend analysis across 7 global regions
+`SQL` `Power BI` `DAX` `Power Query`
 
-**Features:** Advanced DAX measures · Power Query ETL · geographic & category drill-down · KPI cards · synced slicers across pages
-**Stack:** `Power BI` `DAX` `Power Query` `SQL`
-
-[![Repository](https://img.shields.io/badge/Repository-View_Code-2C2C34?style=flat-square&logo=github&logoColor=white)](https://github.com/srinageswaran2006)
+[![Repository](https://img.shields.io/badge/View_Repository-2C2C34?style=flat-square&logo=github&logoColor=white)](https://github.com/srinageswaran2006)
 
 <br/>
 
-### 2. HR Analytics Dashboard
+### HR Analytics Dashboard
 *4-page executive Power BI report*
 
-**Problem:** HR leadership had no single view of headcount, attrition, and risk — every question meant a new manual export.
-**Solution:** Built a 4-page dashboard with role-based access, so HR leadership, department heads, and analysts each see the data relevant to them, without rebuilding the report per audience.
+Designed to give HR leadership one place to catch attrition risk and headcount trends early instead of chasing manual exports. Includes role-based access so different stakeholders see relevant data without separate reports.
 
-**Features:** Row Level Security (RLS) · drillthrough & custom tooltips · risk scoring logic · built-in Q&A visual · executive summary layout
-**Stack:** `Power BI` `DAX` `Power Query`
+`Power BI` `DAX` `Power Query` `Row Level Security`
 
-[![Repository](https://img.shields.io/badge/Repository-View_Code-2C2C34?style=flat-square&logo=github&logoColor=white)](https://github.com/srinageswaran2006)
+[![Repository](https://img.shields.io/badge/View_Repository-2C2C34?style=flat-square&logo=github&logoColor=white)](https://github.com/srinageswaran2006)
 
 <br/>
 
 <details>
-<summary><strong>Also built — Guided Learning Project</strong> (click to expand)</summary>
+<summary><strong>Also built — Guided Learning Project</strong></summary>
 <br/>
 
-**Guided Learning Dashboard** — built while following Chandoo's Power BI course to lock in core fundamentals: data modeling, DAX patterns, and layout principles. Included transparently as a fundamentals project, not an original client-style build.
+**Guided Learning Dashboard** — built while following Chandoo's Power BI course to lock in core fundamentals: data modeling, DAX, and layout principles. Shared transparently as a fundamentals project.
 
 `Power BI` `DAX` `Power Query`
-[![Repository](https://img.shields.io/badge/Repository-View_Code-2C2C34?style=flat-square&logo=github&logoColor=white)](https://github.com/srinageswaran2006)
+
+[![Repository](https://img.shields.io/badge/View_Repository-2C2C34?style=flat-square&logo=github&logoColor=white)](https://github.com/srinageswaran2006)
 
 </details>
 
 <br/>
 
-## Currently Learning
+## 📚 Currently Learning
 
-Deepening the analytics stack around Power BI so I can move from dashboard builder to full-cycle analyst:
+<img src="https://skillicons.dev/icons?i=python"/>
 
-`Python` `Pandas` `NumPy` `Statistics` `Advanced SQL` `Power BI Service — RLS, workspaces, deployment pipelines`
+`Python` `Pandas` `NumPy` `Statistics` `Advanced SQL` `Power BI Service (RLS, workspaces, deployment)`
 
 <br/>
 
-## GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srinageswaran2006&show_icons=true&theme=dark&bg_color=0D1117&title_color=F2C811&icon_color=F2C811&text_color=FFFFFF&border_color=30363D&hide_border=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinageswaran2006&layout=compact&theme=dark&bg_color=0D1117&title_color=F2C811&text_color=FFFFFF&border_color=30363D&hide_border=false" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=srinageswaran2006&show_icons=true&theme=dark&bg_color=0D1117&title_color=F2C811&icon_color=F2C811&text_color=FFFFFF&border_color=30363D&hide_border=false" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinageswaran2006&layout=compact&theme=dark&bg_color=0D1117&title_color=F2C811&text_color=FFFFFF&border_color=30363D&hide_border=false" width="49%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=srinageswaran2006&theme=dark&hide_border=true&background=0D1117&ring=F2C811&fire=F2C811&currStreakLabel=F2C811" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srinageswaran2006&theme=react-dark&bg_color=0D1117&color=F2C811&line=F2C811&point=FFFFFF&hide_border=true" width="100%"/>
 
 </div>
 
 <br/>
 
-## Let's Connect
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinageswaranps)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinageswaran06@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srinageswaran2006)
-
-<br/><br/>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<sub>Chennai, India &nbsp;·&nbsp; B.Tech Information Technology, SIMATS Engineering &nbsp;·&nbsp; Open to Data Analyst / BI Developer roles.</sub>
+<sub>Chennai, India &nbsp;·&nbsp; B.Tech Information Technology, SIMATS Engineering &nbsp;·&nbsp; Open to Data Analyst roles.</sub>
 
 </div>
