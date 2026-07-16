@@ -6,7 +6,7 @@
 
 <h3>Data Analyst &nbsp;|&nbsp; Business Intelligence &nbsp;|&nbsp; SQL &nbsp;|&nbsp; Python</h3>
 
-<sub>I solve business problems with data — analysis, visualization, and storytelling, Power BI is just one of my tools.</sub>
+<sub>I solve business problems with data — analysis, visualization, and storytelling.</sub>
 
 <br/><br/>
 
