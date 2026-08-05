@@ -78,43 +78,35 @@ Currently completing a B.Tech in Information Technology at SIMATS Engineering in
 
 <br/>
 
-## 📁 Featured Projects
+## 🚀 Current Focus
 
-### Sales Performance Analysis
-*4-page executive Power BI report — Global Superstore dataset*
+I'm currently building my Data Analytics portfolio through hands-on learning and real-world projects.
 
-Built to answer a business question, not just visualize data: where is revenue growing, where is margin leaking, and which regions need attention. Covers company-wide KPIs, profitability by category, geographic performance across 147 countries, and product-level intelligence — with cross-page filtering built in.
+### Currently Working On
 
-`SQL` `Power BI` `DAX` `Power Query`
+- 📘 Building a complete **Python for Data Analysis** repository covering:
+  - NumPy
+  - Pandas
+  - Data Cleaning
+  - Exploratory Data Analysis (EDA)
 
-[![Repository](https://img.shields.io/badge/View_Repository-2C2C34?style=flat-square&logo=github&logoColor=white)](https://github.com/srinageswaran2006)
+- 📊 Creating end-to-end **Power BI** dashboards using Kaggle datasets.
 
-<br/>
+- 📈 Building business dashboards in **Excel** with data cleaning, Pivot Tables, Power Query, and business insights.
 
-### HR Analytics Dashboard
-*4-page executive Power BI report*
-
-Designed to give HR leadership one place to catch attrition risk and headcount trends early instead of chasing manual exports. Includes role-based access so different stakeholders see relevant data without separate reports.
-
-`Power BI` `DAX` `Power Query` `Row Level Security`
-
-[![Repository](https://img.shields.io/badge/View_Repository-2C2C34?style=flat-square&logo=github&logoColor=white)](https://github.com/srinageswaran2006)
+- 🗃️ Practicing advanced **SQL** through business-focused query challenges.
 
 <br/>
 
-<details>
-<summary><strong>Also built — Guided Learning Project</strong></summary>
-<br/>
+## 📌 Upcoming Portfolio Projects
 
-**Guided Learning Dashboard** — built while following Chandoo's Power BI course to lock in core fundamentals: data modeling, DAX, and layout principles. Shared transparently as a fundamentals project.
+Projects will be added here as they are completed.
 
-`Power BI` `DAX` `Power Query`
-
-[![Repository](https://img.shields.io/badge/View_Repository-2C2C34?style=flat-square&logo=github&logoColor=white)](https://github.com/srinageswaran2006)
-
-</details>
-
-<br/>
+- ⏳ Python Exploratory Data Analysis
+- ⏳ Sales Analytics Dashboard
+- ⏳ HR Analytics Dashboard
+- ⏳ Customer Insights Dashboard
+- ⏳ SQL Business Case Studies
 
 ## 📚 Currently Learning
 
