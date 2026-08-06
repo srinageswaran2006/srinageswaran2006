@@ -1,144 +1,214 @@
 <div align="center">
 
-<br/>
+<br>
 
-<h1>Hi, I'm Sri Nageswaran 👋</h1>
+# Hi, I'm Sri Nageswaran 👋
 
-<h3>Data Analyst &nbsp;|&nbsp; Business Intelligence &nbsp;|&nbsp; SQL &nbsp;|&nbsp; Python</h3>
+### Aspiring Data Analyst | Power BI • SQL • Excel • Learning Python
 
-<sub>I solve business problems with data — analysis, visualization, and storytelling.</sub>
+<sub>Passionate about transforming raw data into meaningful business insights through analysis, visualization, and storytelling.</sub>
 
-<br/><br/>
+<br><br>
 
-<a href="https://github.com/srinageswaran2006"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/srinagewaranps/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:srinageswaran06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/srinageswaran2006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/srinagewaranps/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=srinageswaran2006&style=flat-square&color=f2c811&label=Profile+Views" alt="Profile Views"/>
+<a href="mailto:srinageswaran06@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=srinageswaran2006&style=flat-square&color=f2c811&label=Profile+Views"/>
 
 </div>
 
-<br clear="all"/>
+---
 
-## About Me
+# 👨‍💻 About Me
 
-I enjoy taking raw, messy data and turning it into something a business can actually act on — a trend leadership can trust, a risk they can catch early, a decision they can make faster. That process — analysis, visualization, storytelling — is what I'm building my career around, not any single tool.
+I'm currently pursuing **B.Tech Information Technology** at **SIMATS Engineering, Chennai**, and working as a **Data Analyst Intern at SQ1 Security Technology Pvt. Ltd.**
 
-My background is in creative design and video editing, and it shapes how I approach data: I think about what a viewer notices first, what they skim, and what they ignore. I bring that same instinct to every chart and dashboard I build — visual choices should earn their place by making the insight clearer, not just look good.
+I enjoy turning raw, messy data into meaningful business insights through analysis, visualization, and storytelling. My goal is to solve real business problems by understanding datasets, identifying trends, uncovering patterns, and communicating insights that support better decision-making.
 
-Currently completing a B.Tech in Information Technology at SIMATS Engineering in Chennai, while leading creative direction at **Growth Orbit** and freelancing as a video editor — and building toward a full-time role as a Data Analyst.
+Coming from a creative background as a **Creative Head** and **Freelance Video Editor**, I naturally focus on dashboard design, storytelling, and user experience. I believe visualizations should not only look clean but also make business insights easier to understand.
 
-<br/>
+I'm currently strengthening my skills in **SQL, Excel, Power BI, Python, Business Analytics, and AI-assisted Analytics** while building real-world portfolio projects.
 
-## 🛠️ Analytics Tech Stack
+---
+
+# 💼 Experience
+
+### 📊 Data Analyst Intern
+**SQ1 Security Technology Pvt. Ltd.**
+
+**July 2026 – Present**
+
+- Building interactive Power BI dashboards
+- Cleaning and transforming datasets using Power Query
+- Creating data models and DAX measures
+- Working with SQL for business data analysis
+- Learning Python for data analytics
+- Exploring AI-assisted analytics workflows
+- Presenting business insights and dashboard solutions
+
+---
+
+# 🛠️ Analytics Tech Stack
 
 <table width="100%">
 <tr>
+
 <td width="50%" align="center" valign="top">
 
-**Analytics & BI**
+### 📊 Analytics & BI
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=0D1117"/>
+
 <img src="https://img.shields.io/badge/DAX-2C2C34?style=flat-square&logo=microsoft&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=0D1117"/>
+
 <img src="https://img.shields.io/badge/Data_Modeling-2C2C34?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Data_Visualization-F2C811?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Business_Analytics-2C2C34?style=flat-square"/>
+
 <img src="https://img.shields.io/badge/Data_Storytelling-F2C811?style=flat-square"/>
 
 </td>
+
 <td width="50%" align="center" valign="top">
 
-**Database & Languages**
+### 🗄️ Programming & Database
 
-<img src="https://skillicons.dev/icons?i=mysql,python,git,github,figma"/>
+<img src="https://skillicons.dev/icons?i=mysql,python,git,github"/>
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" align="center" valign="top">
 
-**Tools**
+### 🧰 Tools
 
-<img src="https://img.shields.io/badge/Excel-2C2C34?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F2C811?style=flat-square&logo=git&logoColor=0D1117"/>
-<img src="https://img.shields.io/badge/GitHub-2C2C34?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
 </td>
+
 <td width="50%" align="center" valign="top">
 
-**Creative**
+### 🎨 Creative
 
-<img src="https://img.shields.io/badge/Figma-F2C811?style=flat-square&logo=figma&logoColor=0D1117"/>
-<img src="https://img.shields.io/badge/Video_Editing-2C2C34?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+<img src="https://img.shields.io/badge/Video_Editing-FF4B4B?style=flat-square"/>
 
 </td>
+
 </tr>
 </table>
 
-<br/>
+---
 
-## 🚀 Current Focus
+# 🚀 Current Focus
 
-I'm currently building my Data Analytics portfolio through hands-on learning and real-world projects.
+- 🐍 Learning Python for Data Analytics
+- 📊 Building end-to-end Power BI dashboards
+- 📈 Creating business dashboards in Excel
+- 🗄️ Strengthening Advanced SQL
+- 📚 Exploring Statistics & Business Analytics
+- 🤖 Learning AI-assisted Analytics
+- 💼 Building a strong Data Analytics portfolio
 
-### Currently Working On
+---
 
-- 📘 Building a complete **Python for Data Analysis** repository covering:
-  - NumPy
-  - Pandas
-  - Data Cleaning
-  - Exploratory Data Analysis (EDA)
-
-- 📊 Creating end-to-end **Power BI** dashboards using Kaggle datasets.
-
-- 📈 Building business dashboards in **Excel** with data cleaning, Pivot Tables, Power Query, and business insights.
-
-- 🗃️ Practicing advanced **SQL** through business-focused query challenges.
-
-<br/>
-
-## 📌 Upcoming Portfolio Projects
-
-Projects will be added here as they are completed.
-
-- ⏳ Python Exploratory Data Analysis
-- ⏳ Sales Analytics Dashboard
-- ⏳ HR Analytics Dashboard
-- ⏳ Customer Insights Dashboard
-- ⏳ SQL Business Case Studies
-
-## 📚 Currently Learning
+# 🌱 Currently Learning
 
 <img src="https://skillicons.dev/icons?i=python"/>
 
-`Python` `Pandas` `NumPy` `Statistics` `Advanced SQL` `Power BI Service (RLS, workspaces, deployment)`
+`Python`
 
-<br/>
+`Pandas`
 
-## 📊 GitHub Stats
+`NumPy`
+
+`Matplotlib`
+
+`Seaborn`
+
+`Advanced SQL`
+
+`Power BI Service`
+
+`Statistics`
+
+`Business Analytics`
+
+`AI-assisted Analytics`
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srinageswaran2006&show_icons=true&theme=dark&bg_color=0D1117&title_color=F2C811&icon_color=F2C811&text_color=FFFFFF&border_color=30363D&hide_border=false" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinageswaran2006&layout=compact&theme=dark&bg_color=0D1117&title_color=F2C811&text_color=FFFFFF&border_color=30363D&hide_border=false" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=srinageswaran2006&show_icons=true&theme=dark&bg_color=0D1117&title_color=F2C811&icon_color=F2C811&text_color=FFFFFF&border_color=30363D" width="49%"/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinageswaran2006&layout=compact&theme=dark&bg_color=0D1117&title_color=F2C811&text_color=FFFFFF&border_color=30363D" width="49%"/>
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=srinageswaran2006&theme=dark&hide_border=true&background=0D1117&ring=F2C811&fire=F2C811&currStreakLabel=F2C811" width="60%"/>
 
-<br/><br/>
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinageswaran2006&theme=react-dark&bg_color=0D1117&color=F2C811&line=F2C811&point=FFFFFF&hide_border=true" width="100%"/>
 
 </div>
 
-<br/>
+---
+
+# 🤝 Let's Connect
+
+I'm always happy to connect with professionals, students, and enthusiasts interested in:
+
+- 📊 Data Analytics
+- 📈 Business Intelligence
+- 🗄️ SQL
+- 🐍 Python
+- 📊 Power BI
+- 📉 Data Visualization
+- 🤖 AI for Analytics
 
 <div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<a href="https://www.linkedin.com/in/srinagewaranps/">
+<img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<sub>Chennai, India &nbsp;·&nbsp; B.Tech Information Technology, SIMATS Engineering &nbsp;·&nbsp; Open to Data Analyst roles.</sub>
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ "Turning raw data into meaningful decisions."
+
+Thanks for visiting my profile!
 
 </div>
