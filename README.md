@@ -10,7 +10,7 @@
 
 <br><br>
 
-<a href="https://github.com/srinageswaran2006">
+<a href="https://www.linkedin.com/in/srinagewaranps/">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -163,21 +163,39 @@ I'm currently strengthening my skills in **SQL, Excel, Power BI, Python, Busines
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srinageswaran2006&show_icons=true&theme=dark&bg_color=0D1117&title_color=F2C811&icon_color=F2C811&text_color=FFFFFF&border_color=30363D" width="49%"/>
+### 📈 Profile Overview
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinageswaran2006&layout=compact&theme=dark&bg_color=0D1117&title_color=F2C811&text_color=FFFFFF&border_color=30363D" width="49%"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srinageswaran2006&theme=github_dark)
 
-<br><br>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=srinageswaran2006&theme=dark&hide_border=true&background=0D1117&ring=F2C811&fire=F2C811&currStreakLabel=F2C811" width="60%"/>
+### 💻 Language Usage
 
-<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srinageswaran2006&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srinageswaran2006&theme=github_dark" width="49%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srinageswaran2006&theme=react-dark&bg_color=0D1117&color=F2C811&line=F2C811&point=FFFFFF&hide_border=true" width="100%"/>
+<br/><br/>
+
+### ⚡ GitHub Performance
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srinageswaran2006&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srinageswaran2006&theme=github_dark&utcOffset=5.5" width="49%" />
+
+<br/><br/>
+
+### 🔥 Contribution Streak
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srinageswaran2006&theme=github_dark&utcOffset=5.5)
+
+<br/><br/>
+
+### 📊 Contribution Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srinageswaran2006&theme=github-dark&hide_border=true&line=F2C811&point=F2C811&color=F2C811" width="100%" />
 
 </div>
 
