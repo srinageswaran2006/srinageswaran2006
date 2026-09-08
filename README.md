@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sri Nageswaran
 
-### Data Analyst Intern • Power BI • SQL • Excel • Python
+### Data Analyst Intern • SQL • Power BI • Excel • Python
 
 Passionate about transforming **raw data into actionable business insights** through **analysis, visualization, and storytelling**.
 
@@ -28,9 +28,9 @@ Passionate about transforming **raw data into actionable business insights** thr
 
 * 🎓 **B.Tech Information Technology** — SIMATS Engineering, Chennai
 * 📊 **Data Analyst Intern** at **SQ1 Security Technology Pvt. Ltd.**
-* 📈 Interested in **Business Intelligence, Data Analytics, and AI-assisted Analytics**
-* 🎨 Background in **Creative Design & Video Editing**, which helps me build **clean, user-focused dashboards**
-* 💡 I enjoy solving business problems by combining **SQL, Excel, Power BI, and Python**
+* 📈 Interested in **Data Analytics, Business Intelligence, and AI-assisted Analytics**
+* 🎨 Background in **Creative Design & Video Editing**, helping me build clean and user-focused dashboards
+* 💡 I enjoy solving business problems using **SQL, Excel, Power BI, and Python**
 
 ---
 
@@ -75,7 +75,7 @@ Passionate about transforming **raw data into actionable business insights** thr
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/EDA-2C2C34?style=flat-square"/>
 
@@ -95,6 +95,7 @@ Passionate about transforming **raw data into actionable business insights** thr
 <img src="https://img.shields.io/badge/XLOOKUP-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_Pivot-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dashboard_Reporting-217346?style=flat-square&logoColor=white"/>
+
 </td>
 
 <td width="50%" align="center" valign="top">
@@ -104,57 +105,12 @@ Passionate about transforming **raw data into actionable business insights** thr
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 
 </td>
 
 </tr>
 </table>
-
----
-
-## 📂 Featured Projects
-
-### 🛒 Superstore Sales EDA
-
-**Python • Pandas • Matplotlib • Seaborn**
-
-* Data Cleaning & Preprocessing
-* Time-Series Sales Analysis
-* Regional & Category Performance Analysis
-* Customer Segment Analysis
-* Profitability & Correlation Analysis
-* Business-Focused Insights & Recommendations
-
-### 👥 HR Analytics Dashboard
-
-**Power BI • DAX • Power Query**
-
-* Multi-page executive dashboard
-* Attrition & retention analysis
-* Compensation insights
-* Drillthrough navigation & custom tooltips
-* Row-Level Security (RLS)
-
-### 📈 Sales Performance Dashboard
-
-**Power BI • SQL • DAX**
-
-* Revenue & profit KPIs
-* Product and category analysis
-* Geographic performance tracking
-* Interactive business storytelling
-
----
-
-## 🌱 Current Learning Focus
-
-- 🗄️ **Advanced SQL & Analytical Query Writing**
-- 📊 **Power BI Service & Enterprise BI Features**
-- 📈 **Statistics & Business Analytics**
-- 🤖 **AI-assisted Analytics Workflows**
-- 🚀 **End-to-End Analytics Project Workflows**
 
 ---
 
@@ -188,31 +144,24 @@ Passionate about transforming **raw data into actionable business insights** thr
 
 <br/><br/>
 
-📊 Contribution Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srinageswaran2006&theme=github-dark&hide_border=true&line=F2C811&point=F2C811&color=F2C811" width="100%"/>
-
-<br/><br/>
-
 </div>
 
 ---
 
-
 ## 🎯 Current Focus
 
-* 📊 End-to-End **Power BI Dashboards**
-* 🗄️ **Advanced SQL** for Analytics
 * 🐍 **Python EDA & Business Analysis**
+* 🗄️ **Advanced SQL & Analytical Query Writing**
+* 📊 **Power BI Service & Enterprise BI**
 * 📈 **Statistics & Data Interpretation**
 * 🤖 **AI-assisted Analytics Workflows**
-* 💼 Building a **production-ready analytics portfolio**
+* 🚀 Building **end-to-end analytics projects**
 
 ---
 
 ## 🤝 Let's Connect
 
-I’m always happy to connect with people interested in:
+I'm always happy to connect with people interested in:
 
 * 📊 Data Analytics
 * 📈 Business Intelligence
